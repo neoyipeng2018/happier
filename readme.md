@@ -1,8 +1,7 @@
 # happier
-## "Would you like to be happier?"
 
 ### Summary
-I don't think anyone would really say no to that. If I asked you right now if you're happy, you could give me a good feel of it. But if I ask you what has made you happy over the past year, you may find it much harder to pinpoint what exactly makes you happy. Furthermore, it's even harder to know what *new* activity will make you even happier.
+I don't think anyone would really say no to being happier. If I asked you right now if you're happy, you could give me a good feel of it. But if I ask you what has made you happy over the past year, you may find it much harder to pinpoint what exactly makes you happy. Furthermore, it's even harder to know what *new* activity will make you even happier.
 
 **And that is the reason for creating Happier.** It's an app that records what you enjoy doing and predicts what you may like.
 
