@@ -35,4 +35,5 @@ Your activities are converted into a form (embeddings) that can be understood an
 CF takes the converted activities and your rating and builds up a profile for you and the acitivity. When generating a report, it ranks what will likely make you the happiest, and suggests them to you.
 
 
-## Let's get happier.
+
+## Let's get Happier.
