@@ -16,7 +16,6 @@ Free-text
 2. Family
 3. Friends
 4. Solo
-5. Choose from contact list
 
 #### 3. How happy did/do you feel doing it?
 Scale of 1 to 5
