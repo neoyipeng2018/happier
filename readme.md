@@ -12,11 +12,11 @@ Happier will ask you 3 questions:
 Free-text
 
 #### 2. Who did you do it with? (J) / Who are you doing it with? (E)
-+ Colleague(s)
-+ Family
-+ Friends
-+ Solo
-+ Choose from contact list
+1. Colleague(s)
+2. Family
+3. Friends
+4. Solo
+5. Choose from contact list
 
 #### 3. How happy did/do you feel doing it?
 Scale of 1 to 5
