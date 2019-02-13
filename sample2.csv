@@ -1,0 +1,32 @@
+userId,category,activityId,peopleID,rating,timestamp
+1,coding,Coding for AWS competition,4,4,1
+1,coding,Machine Learning to the markets,4,5,2
+1,work,Meeting at work,1,2,3
+1,friends,Meeting JX for dinner,3,3,4
+1,work,Running reports at work,4,1,5
+1,work,Reading AI research papers at work,4,4,6
+1,family,Meeting in laws for dinner,2,3,7
+1,family,Helping mum fix things at home,2,3,8
+1,food,Drinking bulletproof coffee,4,5,9
+1,work,Leaving work on time,4,5,10
+1,family,Exercising with wife on Sundays,2,4,11
+1,music,listened to gary vee for motivation,4,5,12
+1,work,figured out tough coding/finance concept,4,5,13
+1,reading,reading Advances in Financial Machine Learning,4,5,14
+1,school,learning deep learning from fastai,4,5,15
+1,coding,applying ML to soccer betting,4,5,16
+2,work,running boring reports,1,1,1
+2,friends,meeting secondary school friends for group dinner,3,2,2
+2,family,drinking with girlfriend,2,5,3
+2,reading,reading about finance,4,4,4
+2,work,automating shit at work,4,5,5
+2,reading,reading about stoicism,4,4,6
+2,work,trying out new software at work,4,5,7
+2,work,drinking with colleagues,1,4,8
+2,travel,going perth with gf,2,5,9
+2,friends,drinking with friends,3,5,10
+2,travel,went kl with friends,3,4,11
+2,work,boring meetings at work,1,1,12
+2,coding,learning python,4,5,13
+2,sleep,slept 8 hours,4,5,14
+2,music,listened to james altuchers podcast,4,5,15
