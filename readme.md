@@ -11,15 +11,11 @@ Happier will ask you 3 questions:
 #### 1. What did you do today? (Journal) / What you're doing right now? (Experiencing)
 Free-text
 
-#### 2. Who did you do it with? (J) / Who are you doing it with? (E)
-1. Colleague(s)
-2. Family
-3. Friends
-4. Solo
-
-#### 3. How happy did/do you feel doing it?
+#### 2. How happy did/do you feel doing it?
 Scale of 1 to 5
 
+#### 3. Tags (optional). The more tags you put, the faster we understand you and recommend you useful things!
+Free-text, comma separated.
 
 ### What you get from Happier
 Once every week/month/year/bespoke period, you get a customised report telling you how happy you were overall, the top 3 activities that made you the most/least happy, and recommends what activities you should try doing, based on your profile similarity with other users.
@@ -31,7 +27,7 @@ Your data is fed into 2 machine learning models to profile and classify your act
 Your activities are converted into a form (embeddings) that can be understood and grouped by our algorithms via NLP.
 
 #### Collaborative Filtering (CF)
-CF takes the converted activities and your rating and builds up a profile for you and the acitivity. When generating a report, it ranks what will likely make you the happiest, and suggests them to you.
+CF takes the converted activities and your rating and builds up a profile for you and the acitivities. When generating a report, it ranks what will likely make you the happiest, and suggests them to you.
 
 
 
