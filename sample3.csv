@@ -1,0 +1,32 @@
+userId,tags,activityId,rating,timestamp
+1,"coding, machine learning, competition",Coding for AWS competition,4,1
+1,"coding, markets, finance",Machine Learning to the markets,5,2
+1,"work, meetings, group, discussions",Meeting at work,2,3
+1,"friends, food, dinner",Meeting JX for dinner,3,4
+1,"work, report, routine, boring",Running reports at work,1,5
+1,"work, research, reading, AI, machine learning",Reading AI research papers at work,4,6
+1,"family, dinner",Meeting in laws for dinner,3,7
+1,"family, housework, fix",Helping mum fix things at home,3,8
+1,"food, coffee, energy",Drinking bulletproof coffee,5,9
+1,"work, relax, punctual",Leaving work on time,5,10
+1,"family, workout, healthy, fit",Exercising with wife on Sundays,4,11
+1,"music, motivation, hustle",listened to gary vee for motivation,5,12
+1,"work, finance, research, challenge, coding",figured out tough coding/finance concept,5,13
+1,"reading, machine learning, finance, markets, AI",reading Advances in Financial Machine Learning,5,14
+1,"school, fastai, coding, AI, machine learning",learning deep learning from fastai,5,15
+1,"coding, soccer, betting, AI, machine learning",applying ML to soccer betting,5,16
+2,"work, boring, reports, routine",running boring reports,1,1
+2,"friends, food, dinner, group, old",meeting secondary school friends for group dinner,2,2
+2,"family, girlfriend, wife, drinks, alcohol, fun",drinking with girlfriend,5,3
+2,"reading, finance",reading about finance,4,4
+2,"work, automate",automating shit at work,5,5
+2,"reading, stocism, philosophy",reading about stoicism,4,6
+2,"work, automation, software, learning, innovation",trying out new software at work,5,7
+2,"work, colleagues, drinks, alcohol",drinking with colleagues,4,8
+2,"travel, girlfriend, relax, holiday",going perth with gf,5,9
+2,"friends, drinks, group",drinking with friends,5,10
+2,"travel, group, friends",went kl with friends,4,11
+2,"work, meetings, group, discussions",boring meetings at work,1,12
+2,"coding, machine learning, python",learning python,5,13
+2,"sleep, refreshed, rest, relax",slept 8 hours,5,14
+2,"music, motivation, hustle",listened to james altuchers podcast,5,15
